@@ -1,0 +1,4 @@
+.idea
+TestCSharp/bin/**
+TestCSharp/obj/**
+.env
